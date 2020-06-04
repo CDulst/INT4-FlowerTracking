@@ -8,6 +8,8 @@ Visual representation flower (rectangle) grows.
 
 Live location ->  Dot changes position on red line.
 
+(readMe initial push)
+
 Location picture changes
 
 Carrier changes
